@@ -6,7 +6,6 @@ from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder
 import joblib
 import os
-
 df = pd.read_csv("data/prepared.csv")
 le = LabelEncoder()
 df["dept_encoded"] = le.fit_transform(df["department"])
