@@ -6,7 +6,6 @@ clf = joblib.load("models/department_classifier.pkl")
 reg = joblib.load("models/wait_time_predictor.pkl")
 le = joblib.load("models/label_encoder.pkl")
 
-
 # Prediction function
 def predict_medassist(text):
     if not text.strip():
