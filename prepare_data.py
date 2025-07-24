@@ -1,6 +1,5 @@
 import pandas as pd
 import os
-
 # Load dataset
 df = pd.read_csv("data/symptom2disease.csv")
 
