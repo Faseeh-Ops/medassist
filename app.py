@@ -1,7 +1,6 @@
 import tkinter as tk
 from tkinter import messagebox
 import joblib
-
 clf = joblib.load("models/department_classifier.pkl")
 reg = joblib.load("models/wait_time_predictor.pkl")
 le = joblib.load("models/label_encoder.pkl")
