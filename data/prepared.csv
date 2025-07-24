@@ -1,0 +1,51 @@
+text,department,wait_time
+I feel chest pain and tightness when walking.,Cardiology,41
+I have difficulty breathing and chest discomfort.,Cardiology,23
+My heart races even when I rest.,Cardiology,15
+I get dizzy and breathless when climbing stairs.,Cardiology,36
+Sharp pain in the center of my chest during exercise.,Cardiology,24
+I wake up gasping for air at night.,Cardiology,42
+There's a heavy feeling in my chest that comes and goes.,Cardiology,19
+Swelling in my legs and shortness of breath.,Cardiology,41
+Sudden fatigue and irregular heartbeat.,Cardiology,38
+I get a crushing pain in my chest when stressed.,Cardiology,21
+"My skin is red, itchy, and has dry patches.",Dermatology,32
+I have bumps on my arms that won't go away.,Dermatology,43
+My scalp is flaky and constantly itches.,Dermatology,19
+I have painful boils under my skin.,Dermatology,19
+There are dark patches forming on my neck.,Dermatology,38
+My face has developed red pimples and is oily.,Dermatology,40
+I see hives after eating certain foods.,Dermatology,28
+I feel burning sensation and rashes on my back.,Dermatology,36
+My nails are brittle and discolored.,Dermatology,18
+There’s skin peeling around my mouth and nose.,Dermatology,32
+I have severe migraines and blurry vision.,Neurology,23
+My left arm feels numb often.,Neurology,20
+I lose balance and coordination randomly.,Neurology,20
+I hear ringing in my ears and feel dizzy.,Neurology,27
+I have muscle spasms in my face.,Neurology,38
+There’s tingling in my hands and feet.,Neurology,19
+My memory is getting worse day by day.,Neurology,36
+I feel electric shocks in my spine.,Neurology,35
+My speech becomes slurred sometimes.,Neurology,24
+I get uncontrollable body twitches.,Neurology,34
+I feel bloated after every meal.,Gastroenterology,34
+I have a burning sensation in my stomach.,Gastroenterology,34
+I get frequent diarrhea and stomach cramps.,Gastroenterology,22
+I feel nauseous early in the morning.,Gastroenterology,30
+I vomit after eating spicy food.,Gastroenterology,31
+I have constipation and stomach pain.,Gastroenterology,38
+My appetite has reduced significantly.,Gastroenterology,26
+There is blood in my stool.,Gastroenterology,18
+My stomach feels tight and distended.,Gastroenterology,31
+I burp excessively and feel discomfort.,Gastroenterology,18
+My knee hurts when I walk for long.,Orthopedics,15
+There is stiffness in my lower back.,Orthopedics,19
+My joints crack and ache.,Orthopedics,17
+My wrist hurts while lifting objects.,Orthopedics,25
+I can’t straighten my elbow.,Orthopedics,30
+I feel pain in my shoulders when sleeping.,Orthopedics,42
+My hip aches while climbing stairs.,Orthopedics,21
+I’ve had ankle pain for weeks.,Orthopedics,24
+My neck is sore and makes clicking sounds.,Orthopedics,37
+I feel numbness in my lower spine.,Orthopedics,15
