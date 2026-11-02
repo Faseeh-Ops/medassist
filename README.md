@@ -25,3 +25,6 @@ This NLP-powered application predicts the relevant medical department and estima
    <img width="1185" height="993" alt="image" src="https://github.com/user-attachments/assets/e62e0a6e-dff4-40ac-be70-d450daf61d23" />
 
 
+   Thanks
+
+
